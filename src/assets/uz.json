@@ -1,0 +1,35 @@
+{
+    "header": "Siz och qoldingizmi?",
+    "search_placeholder": "Manzilni kiriting",
+    "btn": "Kirish"     ,
+    "search_button": "Ovqat topish",
+    "how_it_works": "Bu qanday ishlaydi?",
+    "popular_items": "Mashhur taomlarimiz",
+    "search_by_food": "Taom bo‘yicha qidiring",
+    "daily_discounts": "Har kungi chegirmalar",
+    "dine_tracking": "Jonli kuzatuv",
+    "quick_delivery": "Tez yetkazib berish",
+    "best_deal": "Eng yaxshi taklif: Xrustli sendvichlar",
+    "best_deal_button": "Hozir buyurtma qilish",
+    "celebrate_parties": "Qovurilgan tovuq bilan bayramlarni nishonlang",
+    "celebrate_button": "Hozir buyurtma qilish",
+    "footer": {
+      "company": "Kompaniya",
+      "about_us": "Biz haqimizda",
+      "contact": "Aloqa",
+      "privacy_policy": "Maxfiylik siyosati",
+      "terms_of_service": "Foydalanish shartlari",
+      "copyright": "© 2025 Barcha huquqlar himoyalangan"
+    },
+    "cards": [
+      {
+        "title": "Gamburger",
+        "description": "Shirador mol go‘shti va yangi sabzavotlar bilan gamburger",
+        "price": "250 so‘m"
+      },
+      {
+        "title": "Pizza",
+        "description": "Mozzarella va pomidor qo‘shilgan italyancha pizza",
+        "price": "450 so‘m"
+      }
+    ]}

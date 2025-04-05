@@ -1,0 +1,134 @@
+.box {
+  display: flex;
+  align-items: center;
+  gap: 600px;
+  padding: 10px;
+}
+
+.ota {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.ota p {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #424242;
+}
+
+.ota button {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FF8A00;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 20px 40px 0px #FFAE004A;
+  box-shadow: 0px 5px 10px 0px #FFAE0042;
+}
+
+.ota1 h1 {
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  font-size: 88px;
+  line-height: 100%;
+  letter-spacing: 0%;
+
+  box-shadow: 0px 27px 82px 0px #FFAE0047;
+  box-shadow: 0px 14px 15px 0px #FFAE0003;
+  color: white;
+}
+
+.ota1 p {
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 120%;
+  letter-spacing: 0%;
+
+}
+
+.hm {
+  background-color: #FFB800;
+  height: 450px;
+  display: flex;
+  align-items: center;
+}
+
+.ota1 {
+  padding-top: 100px;
+}
+
+.ota2 {
+  background-color: white;
+  width: 350px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.ota2 button {
+  width: 100px;
+  padding: 5px;
+  background-color: white;
+  border: none;
+  color: #F17228;
+  border-radius: 10px;
+}
+
+.ffd {
+  background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%);
+
+  color: white !important;
+}
+
+.ota2 button:hover {
+  background: #F172281A;
+}
+
+.fd {
+  width: 650px;
+}
+
+.doda {
+  padding: 15px;
+}
+
+.bola {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.inp {
+  width: 250px;
+  height: 30px;
+}
+
+.carts{
+  display: flex;
+  margin: 30px;
+  justify-content: space-between;
+  .cart{
+    align-items: center;
+    text-align: center;
+  }
+  /* button{
+    background-color: rgb(255, 95, 95);
+    padding: 10px;
+    color: rgb(255, 85, 0);
+    border: 10px red;
+    border-radius: 6px;
+  } */
+   button{
+    padding: 8px;
+    border: 0px;
+    border-radius: 6px;
+   }
+}

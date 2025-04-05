@@ -1,0 +1,36 @@
+{
+    "header": "Are you starving?",
+    "search_placeholder": "Enter address",
+    "btn": "Login"     ,
+    "search_button": "Find Food",
+    "how_it_works": "How does it work?",
+    "popular_items": "Popular Items",
+    "search_by_food": "Search by Food",
+    "daily_discounts": "Daily Discounts",
+    "dine_tracking": "Live Tracking",
+    "quick_delivery": "Quick Delivery",
+    "best_deal": "Best deal: Crispy Sandwiches",
+    "best_deal_button": "Order Now",
+    "celebrate_parties": "Celebrate parties with Fried Chicken",
+    "celebrate_button": "Order Now",
+    "footer": {
+      "company": "Company",
+      "about_us": "About Us",
+      "contact": "Contact",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service",
+      "copyright": "© 2025 All rights reserved"
+    },
+    "cards": [
+      {
+        "title": "Hamburger",
+        "description": "Juicy beef burger with fresh vegetables",
+        "price": "$2.50"
+      },
+      {
+        "title": "Pizza",
+        "description": "Italian pizza with mozzarella and tomatoes",
+        "price": "$4.50"
+      }
+    ]
+  }

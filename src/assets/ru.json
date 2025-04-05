@@ -1,0 +1,35 @@
+{"header": "Вы голодны?",
+"search_placeholder": "Введите адрес",
+"btn": "Login"     ,
+"search_button": "Найти еду",
+"how_it_works": "Как это работает?",
+"popular_items": "Популярные товары",
+"search_by_food": "Искать по блюду",
+"daily_discounts": "Ежедневные скидки",
+"dine_tracking": "Живое отслеживание",
+"quick_delivery": "Быстрая доставка",
+"best_deal": "Лучшее предложение: хрустящие сэндвичи",
+"best_deal_button": "Заказать сейчас",
+"celebrate_parties": "Отпразднуйте вечеринку жареной курицей",
+"celebrate_button": "Заказать сейчас",
+"footer": {
+  "company": "Компания",
+  "about_us": "О нас",
+  "contact": "Контакты",
+  "privacy_policy": "Политика конфиденциальности",
+  "terms_of_service": "Условия обслуживания",
+  "copyright": "© 2025 Все права защищены"
+},
+"cards": [
+    {
+      "title": "Гамбургер",
+      "description": "Сочный гамбургер с говядиной и свежими овощами",
+      "price": "₽250"
+    },
+    {
+      "title": "Пицца",
+      "description": "Итальянская пицца с моцареллой и томатами",
+      "price": "₽450"
+    }
+  ]
+}
